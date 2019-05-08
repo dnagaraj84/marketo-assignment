@@ -1,0 +1,132 @@
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:71 - ID RecordMap found a duplicate. Updating the ID HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:30:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  firstName: from John to Ted
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  lastName: from Smith to Jones
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  address: from 123 Street St to 456 Neat St
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:30:20+00:00 to 2014-05-07T17:32:20+00:00
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  email: from foo@bar.com to coo@bar.com
+2019-05-08 06:21:38 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  DataProcesser:88 - Duplicate record found in Email HashMap
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:30:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:30:20+00:00 to 2014-05-07T17:32:20+00:00
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  _id: from jkj238238jdsnfsj23 to sel045238jdsnfsj23
+2019-05-08 06:21:38 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:32:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  _id: from sel045238jdsnfsj23 to qest38238jdsnfsj23
+2019-05-08 06:21:38 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:32:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  firstName: from John to Micah
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  lastName: from Smith to Valmer
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:32:20+00:00 to 2014-05-07T17:33:20+00:00
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  _id: from qest38238jdsnfsj23 to wuj08238jdsnfsj23
+2019-05-08 06:21:38 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:31:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  firstName: from Ted to Tallulah
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  lastName: from Masters to Smith
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  address: from 44 North Hampton St to 123 Water St
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:31:20+00:00 to 2014-05-07T17:33:20+00:00
+2019-05-08 06:21:38 INFO  JsonHelper:161 - Updating field  _id: from edu45238jdsnfsj23 to belr28238jdsnfsj23
+2019-05-08 06:21:38 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:38 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:38 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:30:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:38 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:33:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 DEBUG Application:28 - Processing starts.
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:71 - ID RecordMap found a duplicate. Updating the ID HashMap.
+2019-05-08 06:21:50 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:30:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  firstName: from John to Ted
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  lastName: from Smith to Jones
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  address: from 123 Street St to 456 Neat St
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:30:20+00:00 to 2014-05-07T17:32:20+00:00
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  email: from foo@bar.com to coo@bar.com
+2019-05-08 06:21:50 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  DataProcesser:88 - Duplicate record found in Email HashMap
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:50 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:30:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:30:20+00:00 to 2014-05-07T17:32:20+00:00
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  _id: from jkj238238jdsnfsj23 to sel045238jdsnfsj23
+2019-05-08 06:21:50 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:50 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:32:20 PDT 2014 and second Wed May 07 10:32:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  _id: from sel045238jdsnfsj23 to qest38238jdsnfsj23
+2019-05-08 06:21:50 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:50 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:32:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  firstName: from John to Micah
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  lastName: from Smith to Valmer
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:32:20+00:00 to 2014-05-07T17:33:20+00:00
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  _id: from qest38238jdsnfsj23 to wuj08238jdsnfsj23
+2019-05-08 06:21:50 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:114 - Email RecordMap found a duplicate. Updating the Email HashMap.
+2019-05-08 06:21:50 INFO  JsonHelper:118 - Date comparison between first Wed May 07 10:31:20 PDT 2014 and second Wed May 07 10:33:20 PDT 2014 records. 
+
+2019-05-08 06:21:50 INFO  JsonHelper:149 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  JsonHelper:151 - Following fields got updated from an old value to new value.
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  firstName: from Ted to Tallulah
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  lastName: from Masters to Smith
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  address: from 44 North Hampton St to 123 Water St
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  entryDate: from 2014-05-07T17:31:20+00:00 to 2014-05-07T17:33:20+00:00
+2019-05-08 06:21:50 INFO  JsonHelper:161 - Updating field  _id: from edu45238jdsnfsj23 to belr28238jdsnfsj23
+2019-05-08 06:21:50 INFO  JsonHelper:165 - ---------------------------------------------------
+2019-05-08 06:21:50 INFO  DataProcesser:96 - New record inserted into ID HashMap.
+2019-05-08 06:21:50 INFO  DataProcesser:136 - New record inserted into Email HashMap.
+2019-05-08 06:21:50 DEBUG Application:39 - Processing completed.
