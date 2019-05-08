@@ -55,3 +55,5 @@ hamcrest-core-1.3.jar for JUnit test cases
 * Java
 * Junit
 * Maven
+
+Note - Output folder is kept to peek into the results. When you run the application these files will get generated as well.
