@@ -38,7 +38,7 @@ mvn clean install
 
 #### Deployment
 ```
-java -jar target\marketo-assignment-0.0.1-SNAPSHOT.jar
+java -jar target\marketo-assignment-0.0.1-SNAPSHOT.jar OR run the Application.java
 ```
 
 ## Libraries Used
