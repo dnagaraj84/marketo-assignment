@@ -65,7 +65,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.marketo.App</mainClass>
+							<mainClass>com.marketo.Application</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
